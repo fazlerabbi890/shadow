@@ -67,10 +67,8 @@ ul {
 	line-height: 33px;
 	text-transform: capitalize;
 }
-button {
-	margin: 45px;
-	padding: 15px;
-	padding: 20px 40px 20px 40px;
+.button {
+	padding: 20px 50px 20px 40px;
 	font-size: 34px;
 	border-radius: 35px;
 	background-color: rebeccapurple;
@@ -78,4 +76,5 @@ button {
 	shape-outside: border-box red;
 	text-shadow: 2px 2px red;
 	box-shadow: 0px 2px 24px 15px #801200;
+	line-height: 204px;
 }
