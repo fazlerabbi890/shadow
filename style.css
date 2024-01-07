@@ -20,7 +20,7 @@ a {
 }
 .nav-one {
   height: 130px;
-  width: 40%;
+  width: 25%;
 }
 .nav-one img {
   margin: 40px;
@@ -80,14 +80,14 @@ ul {
   height: 700px;
   width: 52px;
   background-color: black;
-  margin-left: 32rem;
+  margin-left: 20rem;
 }
 .box {
-	height: 48px;
-	width: 150px;
-	background-color: #686b67;
-	margin-top: 18rem;
-	margin-left: -48px;
+  height: 48px;
+  width: 150px;
+  background-color: #686b67;
+  margin-top: 18rem;
+  margin-left: -48px;
 }
 .flag {
   height: 400px;
